@@ -1,0 +1,12 @@
+{
+  "name": "SorteioApp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/andersoncasantos/SorteioApp.git",
+  "author": "Anderson Santos",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "ws": "^8.14.2"
+  }
+}
